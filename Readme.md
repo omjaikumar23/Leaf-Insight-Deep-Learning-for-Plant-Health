@@ -5,11 +5,6 @@ This project classifies leaf images into **13 different disease categories or he
 
 ---
 
-## 📌 Live Demo
-🔗 *(Add your hosted app URL here if available)*
-
----
-
 ## 📌 Features
 - ✅ Classifies **13 leaf disease and healthy leaf classes**  
 - ✅ Supports both **image upload** and **live camera capture**  
